@@ -1,3 +1,5 @@
+#pardon, trosku jsem celou hodinu delal moje-zvire
+
 # Načtení skóre 10 hráčů
 skore = []
 for i in range(10):
